@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    
+    font-family: 'Inter', sans-serif;
+}
+    /* banner style */
+.banner-section{
+    background-repeat: none;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 900px;
+    margin-right: 50px;
+    text-align: right;
+}
+.banner-title{
+    padding-bottom: 25px;
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+}
+.banner-description{
+    margin-left: 100px;
+    padding-bottom: 30px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+.banner-btn{
+    padding: 20px 30px;
+    font-size: 20px;
+    color: #005FAC;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border-color: #005FAC;
+}
