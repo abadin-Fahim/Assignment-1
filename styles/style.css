@@ -33,3 +33,40 @@
     border-radius: 5px;
     border-color: #005FAC;
 }
+.failure-section{
+    display: flex;
+}
+.failure-person{
+    margin-top: 100px;
+    margin-left: 210px;
+}
+.my-failures{
+    margin-top: 350px;
+    margin-left: 250px;
+    margin-right: 100px;
+}
+.failure-title{
+    padding-bottom: 25px;
+    font-weight: 700;
+    font-size: 45px;
+}
+.failure-description{
+    padding-bottom: 20px;
+    color: #444343;
+}
+.failure-list{
+    color: #444343;
+    padding-left: 7px;
+    
+    
+}
+span{
+    display: inline-block;
+    padding-bottom: 15px;
+    transform: rotate(45deg);
+    height: 5px;
+    width: 8px;
+    
+    border-bottom: 3px solid darkolivegreen;
+    border-right: 3px solid darkolivegreen;
+} 
