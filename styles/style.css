@@ -33,6 +33,7 @@
     border-radius: 5px;
     border-color: #005FAC;
 }
+/* failure section */
 .failure-section{
     display: flex;
 }
@@ -66,7 +67,34 @@ span{
     transform: rotate(45deg);
     height: 5px;
     width: 8px;
-    
     border-bottom: 3px solid darkolivegreen;
     border-right: 3px solid darkolivegreen;
 } 
+/* plan section */
+.plan-section{
+    text-align: center;
+    margin-top: 120px;
+    font-weight: 700;
+    font-size: 45px;
+}
+.my-plans{
+    display: flex;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.plan{
+    padding: 90px;
+}
+.title-image{
+    text-align: center;
+}
+.plan-title{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+}
+.plan-description{
+    font-weight: 400px;
+    color: #737272;
+}
