@@ -73,7 +73,7 @@ span{
 /* plan section */
 .plan-section{
     text-align: center;
-    margin-top: 120px;
+    margin-top: 120px; 
     font-weight: 700;
     font-size: 45px;
 }
@@ -82,6 +82,7 @@ span{
     text-align: center;
     margin-left: 100px;
     margin-right: 100px;
+
 }
 .plan{
     padding: 90px;
@@ -97,4 +98,116 @@ span{
 .plan-description{
     font-weight: 400px;
     color: #737272;
+}
+
+/* contact section */
+.contact-section{
+   
+}
+.parent-image{
+    position: relative;
+    display: block;
+    border-radius: 5px;
+    margin-left: 180px;
+    margin-bottom: 100px;
+    align-items: center;
+    background-blend-mode: screen;
+}
+.watch-image{
+    height: auto;
+    
+}
+.gradient-image{
+    position: absolute;
+    left: 0;
+    top: 0;
+    
+}
+
+.contact-title{
+    position: absolute;
+    text-align: left;
+    font-weight: 700;
+    font-size: 45px;
+    padding-top: 50px;
+    margin-right: 800px;
+    margin-left: 80px;
+    align-items: center;
+    padding-bottom: 5px;
+    color:#FFFFFF;
+}
+.call-now-btn{
+    position: absolute;
+    margin-top: 175px;
+    margin-left: 80px;
+    padding: 20px 30px;
+    font-size: 20px;
+    color: #005FAC;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border-color: #005FAC;
+}
+/* footer section */
+.footer-section{
+    position: absolute;
+    width: 1500px;
+    height: 500px;
+    display: flex;
+    background: #151414;
+}
+.footer-title{
+    margin-top: 80px;
+    margin-left: 180px;
+    padding-bottom: 30px;
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+}
+
+.footer-description{
+    margin-left: 180px;
+    margin-right: 100px;
+    font-weight: 700;
+    color: #F8F8F8;
+    padding-bottom: 25px;
+}
+.social-media{
+    margin-left: 180px;
+    
+}
+/* SUUBSCRIBE SECTION */
+.subscribe-section{
+    
+  
+}
+.subscribe-title{
+    margin-top: 100px;
+    margin-left: 60px;
+    font-weight: 600;
+    font-size: 30px;
+    color: #FFFFFF;
+    padding-bottom: 20px;
+}
+.email-section{
+    width: 700px;
+    margin-left: 60px;
+    color: #FFFFFF;
+    border-radius: 4px;
+    padding-bottom: 20px;
+}
+input{
+    padding: 15px;
+    background: #151414;
+    font-size: 20px;
+    
+    border-color: #FFFFFF;
+}
+.subscribe-btn{
+    margin-left: 60px;
+    padding: 20px 30px;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: #005FAC;
+    border-radius: 5px;
+    border-color: #005FAC;
 }
